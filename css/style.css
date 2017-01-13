@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  font-family: "Helvetica Neue"
+}
+
+
+header {
+  background-color: #06D6A0;
+  text-align: center;
+  padding: 20px;
+}
+
+.logo  {
+    magin: 0;
+    color: white;
+    font-size: 30px
+  }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  margin-bottom: 5px;
+}
+
+li {
+  text-align: center;
+}
+.navbar {
+  float: right;
+}
+
+
+.logo {
+  text-align: left;
+}
+
+img {
+  max-width: 100%;
+}
+
+.hero {
+  display: inline-block;
+  padding-bottom: 5px;
+  border-bottom: solid #EF476F;
+}
